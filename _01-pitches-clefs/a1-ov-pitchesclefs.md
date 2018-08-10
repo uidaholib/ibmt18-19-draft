@@ -3,6 +3,8 @@ layout: chapter
 title: Overview 1a - Pitches and Clefs
 ---
 
+test test test
+
 ## A Starting Place
 
 Most college music students are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals. If you are uncomfortable with any of aspect of these concepts, you can review the basics under the *Further Reading* section of [Lesson 1a]({{ site.baseurl }}/1ac-tx-pitchesclefs.html)
