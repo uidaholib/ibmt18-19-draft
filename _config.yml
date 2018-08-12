@@ -1,15 +1,12 @@
-# Inquiry-Based Music Theory
-# OER Music text book, by Sean Butterfield and Evan Williamson
-# project was inspired by and partially adapted from Open Music Theory https://github.com/openmusictheory/openmusictheory.github.io
+# IIntegrated Musicianship: A Theory and Aural Skills Method
+# OER Music text book, by Sean Butterfield and Miranda Wilson
 
-# jekyll theme partly based on Lanyon, https://github.com/poole/lanyon
-# OER Music text book, content adapted and created by smbutterfield
 # jekyll theme adapted from Lanyon, https://github.com/poole/lanyon
-# project set up by evanwill
+# by evanwill
 
 # site info
-title: Inquiry-Based Music Theory
-tagline: OER Text Book
+title: Integrated Musicianship: A Theory and Aural Skills Method
+tagline: 2018-19
 description: "an open, interactive, online textbook for college music theory"
 keywords: music theory, OER, university of idaho, inquiry-based
 owner: Sean Butterfield
