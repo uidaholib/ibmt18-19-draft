@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 1a - Pitches and Clefs
+title: Discussion 1a - Pitches and Clefs
 abc: true
 ---
 
