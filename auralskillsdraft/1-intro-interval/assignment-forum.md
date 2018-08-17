@@ -4,7 +4,7 @@ title: Unit 1 Assignment and Forum
 abc: true
 ---
 
-Please purchase your EarMaster voucher from the campus bookstore and bring it to your instructor so that you can be added to the system. Remember, this assignment is due next Friday, August 31.
+Please purchase your EarMaster voucher from the campus bookstore and bring it to your instructor so that you can be added to the system. Remember, this assignment is due Friday, August 31, 2018.
 
 Print out your sight singing warmup and prepare it, and the Rogers-Ottman assignment, for your first sight singing audit.
 
