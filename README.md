@@ -5,3 +5,5 @@ It was developed with support of the [Think Open Fellowship](https://open.lib.ui
 The project was inspired by and partially adapted from [*Open Music Theory*](http://openmusictheory.com/).
 
 <https://smbutterfield.github.io/ibmt17-18/>
+
+new line on the web editor
